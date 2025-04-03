@@ -12,6 +12,8 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 ## Awesome Repos and Tutorials
 
 ### How to learn Robotics
+[awesome-robotics](https://github.com/kiloreux/awesome-robotics)
+
 [how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics)
 
 [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)
