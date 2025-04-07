@@ -52,6 +52,15 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 ## Imitation Learning
 
 ## Simulators
+- [Isaac Lab](https://github.com/isaac-sim/IsaacLab), which is built on top of [Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
+- [Isaac Gym](https://developer.nvidia.com/isaac-gym)
+- [MuJoCo](https://github.com/google-deepmind/mujoco)
+- [SAPIEN](https://github.com/haosulab/SAPIEN)
+- [PyBullet](https://github.com/bulletphysics/bullet3)
+- [Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+- [cuRobo](https://github.com/NVlabs/curobo)
+- [PyRep](https://github.com/stepjam/PyRep), which is built on top of [CoppeliaSim](https://www.coppeliarobotics.com/)
+- [Blender](https://www.blender.org/)
 
 ## Robot Imitation Learning Paper List
 
