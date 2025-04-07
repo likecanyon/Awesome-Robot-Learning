@@ -61,6 +61,8 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 - [cuRobo](https://github.com/NVlabs/curobo)
 - [PyRep](https://github.com/stepjam/PyRep), which is built on top of [CoppeliaSim](https://www.coppeliarobotics.com/)
 - [Blender](https://www.blender.org/)
+- [RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) 
+- [Simulately](https://simulately.wiki/)
 
 ## Robot Imitation Learning Paper List
 
