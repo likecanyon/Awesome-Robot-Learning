@@ -49,7 +49,7 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 [Imitation Learning ICML 2018 Tutorial](https://drive.google.com/file/d/12QdNmMll-bGlSWnm8pmD_TawuRN7xagX/view)
 
 
-## Imitation Learning
+
 
 ## Simulators
 - [Isaac Lab](https://github.com/isaac-sim/IsaacLab), which is built on top of [Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
