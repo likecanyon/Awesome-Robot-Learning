@@ -30,6 +30,21 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 
 [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
 
+[Deep Reinforcement Learning Fundamentals, Research and Applications,A Springer Nature Book, Hao Dong etc.](https://deepreinforcementlearningbook.org/)
+
+
+[CS 285 at UC Berkeley Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+
+[RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)
+
+[Introduction to Reinforcement Learning, Joelle Pineau](https://videolectures.net/videos/deeplearning2016_pineau_reinforcement_learning)
+
+[ElegantRL](https://elegantrl.readthedocs.io/en/latest/index.html)
+
+[Reinforcement Learning An introduction (Second Edition) by Richard S. Sutton and Andrew G. Barto](https://github.com/MrinmoiHossain/Reinforcement-Learning-Specialization-Coursera/blob/master/Book/Reinforcement%20Learning%20An%20introduction%20(Second%20Edition)%20by%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf)
+
+
+
 ### How to learn imitation learning
 [Imitation Learning ICML 2018 Tutorial](https://drive.google.com/file/d/12QdNmMll-bGlSWnm8pmD_TawuRN7xagX/view)
 
