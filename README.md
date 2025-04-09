@@ -43,6 +43,7 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 
 [Reinforcement Learning An introduction (Second Edition) by Richard S. Sutton and Andrew G. Barto](https://github.com/MrinmoiHossain/Reinforcement-Learning-Specialization-Coursera/blob/master/Book/Reinforcement%20Learning%20An%20introduction%20(Second%20Edition)%20by%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf)
 
+[Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics)
 
 
 ### How to learn imitation learning
