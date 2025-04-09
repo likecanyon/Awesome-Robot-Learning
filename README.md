@@ -45,6 +45,8 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 
 [Reinforcement-Learning-in-Robotics](https://github.com/Skylark0924/Reinforcement-Learning-in-Robotics)
 
+[introRL](https://github.com/zhoubolei/introRL)
+
 
 ### How to learn imitation learning
 [Imitation Learning ICML 2018 Tutorial](https://drive.google.com/file/d/12QdNmMll-bGlSWnm8pmD_TawuRN7xagX/view)
