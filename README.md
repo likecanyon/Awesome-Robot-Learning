@@ -47,6 +47,7 @@ This repo collects some repos, tutorials and papers about robotics, reinforcemen
 
 [introRL](https://github.com/zhoubolei/introRL)
 
+[awesome-rl](https://github.com/aikorea/awesome-rl) stared 9k.
 
 ### How to learn imitation learning
 [Imitation Learning ICML 2018 Tutorial](https://drive.google.com/file/d/12QdNmMll-bGlSWnm8pmD_TawuRN7xagX/view)
